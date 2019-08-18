@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/kshahzeb1994/Forkify#readme",
   "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.5.5",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
